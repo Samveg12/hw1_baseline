@@ -2,6 +2,14 @@
 
 The homework will be based on this project named "Expense Tracker",where users will be able to add/remove daily transaction. 
 
+## Supported Features
+The Expense Tracker application currently supports the following features:
+* Adding financial transactions with amount and category information
+* Displaying all transactions in a tabular format with Serial number, Amount, Category, and Date
+* Automatic timestamp generation for each transaction
+* Calculation and display of the total cost of all transactions
+* Simple and intuitive user interface with input fields and action buttons
+
 ## How to build and test (from Terminal):
 1. Make sure that you have Apache Ant installed. Run ```ant``` in the root directory, which contains the build.xml build file.
 
@@ -29,7 +37,7 @@ Create a file named ```InputValidation.java```  to validate the ```amount``` and
 ## Manual Review
 Here are some examples of satisfying ```non-functional`` requirements:
 1. Understandability
-• External documentation (such as a README file) improves program understanding. This app’s
+• External documentation (such as a README file) improves program understanding. This app's
 README file helps users and developers by providing the build instructions.
 
 
